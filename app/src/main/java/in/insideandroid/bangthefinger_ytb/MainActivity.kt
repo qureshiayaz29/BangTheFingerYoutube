@@ -35,6 +35,7 @@ class MainActivity : AppCompatActivity() {
     private lateinit var dialogText: TextView
     private lateinit var dialogButton: AppCompatButton
 
+    //this is sample branch 1
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
 
